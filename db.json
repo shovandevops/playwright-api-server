@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 1, "title": "Playwright Setup", "author": "QA Engineer" },
+    { "id": 2, "title": "API Testing with Python", "author": "Tester" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Great article!", "postId": 1 }
+  ],
+  "profile": {
+    "name": "Test User"
+  }
+}
